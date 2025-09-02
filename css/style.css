@@ -47,7 +47,7 @@ nav.nav {
 .logo-container {
   position: absolute;
   top: 40px;
-  left: 860px;
+  left: 855px;
   transform: translateX(-50%) translateY(20px);
   text-align: center;
   opacity: 0;
